@@ -14,3 +14,7 @@
 
 * [Coquette](http://coquette.maryrosecook.com/)
 * [Phaser](https://phaser.io/)
+
+## Other Tools
+
+* [Piskel](https://www.piskelapp.com/) - sprite editor
